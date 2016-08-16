@@ -11,16 +11,15 @@
  by Alan Hutchenreuther
 
 Hardware configuration for base system:
-Arduino Uno R3
-Grove modular connector shield.
-Grove LCD
-ChronoDot RTC board.
-Adafruit MicroSD breakout board.
-Future: Yellow LED to indicate sd status: log (.5 sec blink) or error (solid ON).
+- Arduino Uno R3
+- Grove modular connector shield.
+- Grove LCD
+- ChronoDot RTC board.
+- Adafruit MicroSD breakout board.
+- Future: Yellow LED to indicate sd status: log (.5 sec blink) or error (solid ON).
 
-Hardware configuration for specific application:
+Hardware configuration for this specific application:
 1-2 DS18B20 temperature sensor(s)
-
 
 Operating Note:  When swapping out microSD cards, remove power.   Failure to do so will
 prevent future logging to continue without error indication.
