@@ -16,7 +16,7 @@ Hardware configuration for base system:
 - Grove LCD
 - ChronoDot RTC board.
 - Adafruit MicroSD breakout board.
-- Future: Yellow LED to indicate sd status: log (.5 sec blink) or error (solid ON).
+Future: Yellow LED to indicate sd status: log (.5 sec blink) or error (solid ON).
 
 Hardware configuration for this specific application:
 1-2 DS18B20 temperature sensor(s)

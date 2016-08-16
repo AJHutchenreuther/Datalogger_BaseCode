@@ -1,0 +1,6 @@
+Base code for a family of envisioned data logging and control applications
+based on Arduino UNO R3.  
+ 
+This is the first instance, created while learning Git operation.
+Multiple branches are expected for temperature, battery life, temperature control, and other applications.
+16Aug2016 ajh
