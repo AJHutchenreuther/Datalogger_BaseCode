@@ -1,7 +1,8 @@
 Base code for a family of envisioned data logging and control applications
-based on Arduino UNO R3.  
+based on Arduino UNO R3. The family of apps is located in .\Documents\Arduino\Datalogger, each app is in a separate sub-folder treated as the local repository. 
  
 This is the first instance, created while learning Git operation.
 Multiple projects are expected for temperature, battery life, temperature control, and other applications.
+
 16Aug2016 ajh
 cloned through GitHub server to HP Laptop  18Aug16
