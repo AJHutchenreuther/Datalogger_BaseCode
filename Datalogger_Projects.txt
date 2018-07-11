@@ -24,4 +24,6 @@ Archives:
 TemperatureDisplay_V8_1_DigitalTempTimeLoggingRTC\
 TemperatureDisplay_V8_2_DigitalTempTimeLoggingRTC\
 
+Other projects for Raspberry Pi Python  High Tech Thermometer.
+
 * - Versioning in effect with Git
